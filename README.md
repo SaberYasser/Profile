@@ -195,7 +195,7 @@ Semi-Slav Defense • **½–½**
 
 </td>
 <td width="33%" align="center">
-</tr>
+  
 </table>
 
 <p align="center">
