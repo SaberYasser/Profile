@@ -1,26 +1,89 @@
 # Hi, I'm Yasser Saber 👋
 
-### Systems & Cloud Engineer | AWS • Azure • Hybrid Infrastructure • Terraform • Automation • GenAI
+### Systems & Cloud Engineer
+### AWS • Azure • Hybrid Infrastructure • Terraform • Automation • GenAI
 
-I’m a **Systems & Cloud Engineer** with 10+ years of experience across enterprise infrastructure, IT operations, virtualization, identity, disaster recovery, and cloud migration. My background is rooted in Microsoft/Windows environments, and I’m increasingly focused on building **secure, automated, cloud-first infrastructure across AWS and Azure**.
+I build and modernize enterprise infrastructure across cloud, hybrid, and on-prem environments —  
+with a focus on **automation, Infrastructure as Code, reliability, and practical AI integration**.
 
-I enjoy solving infrastructure problems with a mix of **systems thinking, automation, Infrastructure as Code, and AI** — from hybrid identity and VM migrations to disaster recovery automation and RAG-powered assistants.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasser%20Saber-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-saber/)
-[![GitHub](https://img.shields.io/badge/GitHub-SaberYasser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaberYasser)
+<a href="https://www.linkedin.com/in/yasser-saber/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yasser%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/SaberYasser">
+  <img src="https://img.shields.io/badge/GitHub-SaberYasser-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## 🏅 Certifications
+## ☁️ I build infrastructure that runs reliably
 
-[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/93a5c2c0-3c4c-46d7-b881-3c07abfccdb4/public_url)
-[![Microsoft Certified Azure Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/yassersaber-9611/credentials/38bf73c5a7e17a06?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-[![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate%20(004)-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/3cf146e8-86e6-426f-963d-8ca2e6b93243/linked_in_profile)
+I'm a **Systems & Cloud Engineer with 10+ years of experience** across enterprise infrastructure, virtualization, identity, disaster recovery, cloud migration, and IT operations.
 
-[![NVIDIA AI Infrastructure and Operations](https://img.shields.io/badge/NVIDIA%20Certified-AI%20Infrastructure%20%26%20Operations-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.credly.com/badges/d80fd871-163e-4919-ae46-cfadb54fcbe6/public_url)
-[![Google IT Automation with Python](https://img.shields.io/badge/Google-IT%20Automation%20with%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/093e8809-2de6-431f-9574-ba5becb86315/public_url)
-[![Hyperledger Fabric Certified Practitioner](https://img.shields.io/badge/Linux%20Foundation-Hyperledger%20Fabric%20Certified%20Practitioner-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.credly.com/badges/b9100976-bfe6-40e7-b362-4db119f96b0f/public_url)
-[![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4%20Foundation-5C2D91?style=for-the-badge)](https://www.canva.com/design/DAGlCJy6t50/-_7SvICP2VNHDhSQ8WBkgg/view?utm_content=DAGlCJy6t50&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8e168f07f4)
+My background started deep in **Windows Server, Active Directory, virtualization, networking, and enterprise IT operations** and has expanded into:
+
+- ☁️ AWS & Microsoft Azure
+- 🏗️ Terraform & Infrastructure as Code
+- ⚙️ PowerShell, Python & automation
+- 🔐 Hybrid identity & cloud security
+- 🚀 Cloud migration & disaster recovery
+- 🤖 Generative AI, RAG & cloud AI services
+
+I enjoy solving infrastructure problems where **systems engineering, automation, cloud architecture, and AI** intersect.
+
+---
+
+# 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/93a5c2c0-3c4c-46d7-b881-3c07abfccdb4/public_url">
+    <img src="./assets/certifications/aws-saa.png" height="125" alt="AWS Certified Solutions Architect Associate">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/yassersaber-9611/credentials/38bf73c5a7e17a06">
+    <img src="./assets/certifications/azure-admin.png" height="125" alt="Microsoft Certified Azure Administrator Associate">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/3cf146e8-86e6-426f-963d-8ca2e6b93243/linked_in_profile">
+    <img src="./assets/certifications/terraform-associate.png" height="125" alt="HashiCorp Certified Terraform Associate">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/d80fd871-163e-4919-ae46-cfadb54fcbe6/public_url">
+    <img src="./assets/certifications/nvidia-ai-infra.png" height="125" alt="NVIDIA Certified Associate AI Infrastructure and Operations">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/093e8809-2de6-431f-9574-ba5becb86315/public_url">
+    <img src="./assets/certifications/google-python.png" height="125" alt="Google IT Automation with Python">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b9100976-bfe6-40e7-b362-4db119f96b0f/public_url">
+    <img src="./assets/certifications/hyperledger-fabric.png" height="125" alt="Hyperledger Fabric Certified Practitioner">
+  </a>
+</p>
+
+<p align="center">
+  <a href="REPLACE-WITH-YOUR-PEOPLECERT-PUBLIC-BADGE-URL">
+    <img
+      src="https://images.credly.com/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png"
+      height="125"
+      alt="ITIL 4 Foundation">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Click any certification badge to verify the credential.</sub>
+</p>
+
+### 🎓 Education
+
+[**Engineer's Degree in Computer Science Engineering — INSEA School of Engineering**](https://www.canva.com/design/DAFSPSbOl1Y/Kqma5w2bqZor5BDgYE3Pfw/view)
+
+---
 
 ### 🎓 Education
 
@@ -86,6 +149,66 @@ I enjoy solving infrastructure problems with a mix of **systems thinking, automa
 - **Hybrid Identity & Endpoint Modernization** — Migrated identity toward Microsoft Entra ID and Microsoft 365, deployed Windows Autopilot and Intune, and supported SharePoint, Teams, OneDrive, Defender, and endpoint compliance.
 - **Enterprise Infrastructure Modernization** — Administered Active Directory, DNS, DHCP, GPO, FortiGate, Hyper-V/VMware environments, high-availability Windows Server infrastructure, and multi-site IT operations.
 
+  
+---
+# ♟️ Moroccan Chess Champion
+
+<p align="center">
+  <b>Competitive chess has shaped how I approach engineering:</b><br>
+  pattern recognition • calculation • decision-making under pressure • long-term planning
+</p>
+
+<p align="center">
+Selected performances against internationally titled players:
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🇲🇦 Yasser Saber vs Juan Bellon Lopez
+
+**Gibraltar Masters — 2016**  
+Benoni Defense • **1–0**
+
+<a href="./assets/chess/saber-bellon-2016.png">
+  <img src="./assets/chess/saber-bellon-2016.png" width="100%" alt="Yasser Saber vs Juan Bellon Lopez">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Anurag Mhamal vs 🇲🇦 Yasser Saber
+
+**Roquetas de Mar Open — 2018**  
+Pirc Defense • **½–½**
+
+<a href="./assets/chess/mhamal-saber-2018.png">
+  <img src="./assets/chess/mhamal-saber-2018.png" width="100%" alt="Anurag Mhamal vs Yasser Saber">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🇲🇦 Yasser Saber vs Hichem Hamdouchi
+
+**Arab Clubs — 2016**  
+Semi-Slav Defense • **½–½**
+
+<a href="./assets/chess/saber-hamdouchi-2016.png">
+  <img src="./assets/chess/saber-hamdouchi-2016.png" width="100%" alt="Yasser Saber vs Hichem Hamdouchi">
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Different board, same mindset: understand the system, anticipate failure modes, and think several moves ahead.</i>
+</p>
+
 ---
 
 ## 🎯 Current Focus
@@ -96,5 +219,6 @@ I enjoy solving infrastructure problems with a mix of **systems thinking, automa
 - Cloud migration, backup, disaster recovery, and operational resilience
 - Identity and endpoint management with **Active Directory, Entra ID, Microsoft 365, and Intune**
 - Practical **GenAI/RAG integrations** for IT operations and automation
+- Codex prompt engineering and AI agents orchestration for stocks trading and investment risk management
   
 ---
