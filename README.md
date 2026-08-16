@@ -85,12 +85,6 @@ I enjoy solving infrastructure problems where **systems engineering, automation,
 
 ---
 
-### 🎓 Education
-
-[**Engineer's Degree in Computer Science Engineering — INSEA School of Engineering**](https://www.canva.com/design/DAFSPSbOl1Y/Kqma5w2bqZor5BDgYE3Pfw/view?utm_content=DAFSPSbOl1Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h73807fc93d)
-
----
-
 ## ⚡ Technologies
 
 ### ☁️ Cloud & Infrastructure as Code
@@ -110,7 +104,6 @@ I enjoy solving infrastructure problems where **systems engineering, automation,
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ### ⚙️ Automation, Scripting & DevOps
 
@@ -118,7 +111,6 @@ I enjoy solving infrastructure problems where **systems engineering, automation,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -202,6 +194,7 @@ Semi-Slav Defense • **½–½**
 </a>
 
 </td>
+<td width="33%" align="center">
 </tr>
 </table>
 
@@ -219,6 +212,6 @@ Semi-Slav Defense • **½–½**
 - Cloud migration, backup, disaster recovery, and operational resilience
 - Identity and endpoint management with **Active Directory, Entra ID, Microsoft 365, and Intune**
 - Practical **GenAI/RAG integrations** for IT operations and automation
-- Codex prompt engineering and AI agents orchestration for stocks trading and investment risk management
+- Codex prompt engineering & **AI agents** orchestration for stocks trading & risk management
   
 ---
