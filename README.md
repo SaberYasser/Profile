@@ -145,9 +145,9 @@ I enjoy solving infrastructure problems where **systems engineering, automation,
 ---
 # ♟️ Moroccan Chess Champion
 
-<p align="center">
+<p>
   <b>Competitive chess has shaped how I approach engineering:</b><br>
-  pattern recognition • calculation • decision-making under pressure • long-term planning
+  analysis & pattern recognition • planning for failure so nothing fails • decision making under pressure • retrospective thinking • owning my actions
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@ Selected performances against internationally titled players:
 <tr>
 <td width="33%" align="center">
 
-### 🇲🇦 Yasser Saber vs Juan Bellon Lopez
+### Yasser Saber vs Juan Bellon Lopez 🇪🇸
 
 **Gibraltar Masters — 2016**  
 Benoni Defense • **1–0**
@@ -171,7 +171,7 @@ Benoni Defense • **1–0**
 
 <td width="33%" align="center">
 
-### Anurag Mhamal vs 🇲🇦 Yasser Saber
+### 🇮🇳 Anurag Mhamal vs Yasser Saber
 
 **Roquetas de Mar Open — 2018**  
 Pirc Defense • **½–½**
@@ -184,23 +184,18 @@ Pirc Defense • **½–½**
 
 <td width="33%" align="center">
 
-### 🇲🇦 Yasser Saber vs Hichem Hamdouchi
+###  Yasser Saber vs Hichem Hamdouchi 🇫🇷
 
 **Arab Clubs — 2016**  
 Semi-Slav Defense • **½–½**
 
-<a href="./assets/chess/saber-hamdouchi-2016.png">
-  <img src="./assets/chess/saber-hamdouchi-2016.png" width="100%" alt="Yasser Saber vs Hichem Hamdouchi">
+<a href="./assets/chess/saber-handouchi-2016.png">
+  <img src="./assets/chess/saber-handouchi-2016.png" width="100%" alt="Yasser Saber vs Hichem Hamdouchi">
 </a>
 
 </td>
-<td width="33%" align="center">
   
 </table>
-
-<p align="center">
-  <i>Different board, same mindset: understand the system, anticipate failure modes, and think several moves ahead.</i>
-</p>
 
 ---
 
