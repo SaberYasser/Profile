@@ -90,7 +90,7 @@ I enjoy solving infrastructure problems where **systems engineering, automation,
 
 ### 🎓 Education
 
-[**Engineer's Degree in Computer Science Engineering — INSEA School of Engineering**](https://www.canva.com/design/DAFSPSbOl1Y/Kqma5w2bqZor5BDgYE3Pfw/view)
+[**Degree in Computer Science — INSEA School of Engineering**](https://www.canva.com/design/DAFSPSbOl1Y/Kqma5w2bqZor5BDgYE3Pfw/view)
 
 ---
 
