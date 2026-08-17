@@ -9,17 +9,19 @@ with a focus on **automation, Infrastructure as Code, reliability, and practical
 <br>
 
 <a href="https://www.linkedin.com/in/yasser-saber/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yasser%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://x.com/SaberYasserov">
-  <img src="https://img.shields.io/badge/X-SaberYasserov-000000?style=for-the-badge&logo=x&logoColor=white">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
 <a href="https://www.facebook.com/Yasserovsky/">
-  <img src="https://img.shields.io/badge/Facebook-Yasserovsky-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
+
 <a href="https://www.reddit.com/user/Ok-Consideration3303/">
-  <img src="https://img.shields.io/badge/Reddit-Ok--Consideration3303-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
 </a>
 
 </div>
