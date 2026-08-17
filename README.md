@@ -11,8 +11,15 @@ with a focus on **automation, Infrastructure as Code, reliability, and practical
 <a href="https://www.linkedin.com/in/yasser-saber/">
   <img src="https://img.shields.io/badge/LinkedIn-Yasser%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/SaberYasser">
-  <img src="https://img.shields.io/badge/GitHub-SaberYasser-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://x.com/SaberYasserov">
+  <img src="https://img.shields.io/badge/X-SaberYasserov-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/Yasserovsky/">
+  <img src="https://img.shields.io/badge/Facebook-Yasserovsky-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.reddit.com/user/Ok-Consideration3303/">
+  <img src="https://img.shields.io/badge/Reddit-Ok--Consideration3303-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
 
 </div>
