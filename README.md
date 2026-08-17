@@ -142,17 +142,146 @@ I enjoy solving infrastructure problems where **systems engineering, automation,
 
 ---
 
-## 🛠️ Selected Engineering Experience
+---
 
-- **AWS Bedrock RAG Assistant** — Built a production-ready conversational AI solution using Amazon Bedrock, Anthropic Claude, Titan Embeddings, an S3-backed knowledge base, Amazon Lex, IAM, and Bedrock Guardrails.
-- **AWS VM Migration** — Executed a multi-wave migration of Linux and Windows servers with AWS Application Migration Service (MGN), Systems Manager validation, test launches, and production cutover.
-- **Azure Disaster Recovery Automation** — Implemented Azure Recovery Services Vault and Microsoft Azure Backup Server for Hyper-V workloads, defined backup policies with Bicep, and used Python/Azure Functions for monitoring and restore validation.
-- **Hybrid Identity & Endpoint Modernization** — Migrated identity toward Microsoft Entra ID and Microsoft 365, deployed Windows Autopilot and Intune, and supported SharePoint, Teams, OneDrive, Defender, and endpoint compliance.
-- **Enterprise Infrastructure Modernization** — Administered Active Directory, DNS, DHCP, GPO, FortiGate, Hyper-V/VMware environments, high-availability Windows Server infrastructure, and multi-site IT operations.
+# 🚀 Projects Portfolio & Workshops
+
+<p>
+A selection of hands-on cloud, infrastructure, automation, DevOps, and AI projects.
+Click a project name to explore the architecture, implementation, documentation, and resources.
+</p>
+
+<details>
+<summary><b>☁️ Project A</b></summary>
+
+<br>
+
+### Project Overview
+
+Short description of the project and the problem it solves.
+
+**Technologies:**  
+AWS • Terraform • Python • PowerShell • Docker • GitHub Actions
+
+### Architecture
+
+Describe the architecture, infrastructure components, integrations, and design decisions here.
+
+### What I Built
+
+- Infrastructure deployment and configuration
+- Infrastructure as Code
+- Automation workflows
+- Monitoring and logging
+- Security and IAM configuration
+- Testing and validation
+- Documentation
+
+### Project Resources
+
+- 🔗 [GitHub Repository](REPLACE-WITH-PROJECT-REPOSITORY)
+- 📖 [Project Documentation](REPLACE-WITH-DOCUMENTATION-LINK)
+- 🏗️ [Architecture Diagram](REPLACE-WITH-ARCHITECTURE-LINK)
+- 🎬 [Demo](REPLACE-WITH-DEMO-LINK)
+- 🧪 [Workshop / Lab](REPLACE-WITH-WORKSHOP-LINK)
+- 📝 [Technical Notes](REPLACE-WITH-NOTES-LINK)
+
+<br>
+
+</details>
+
+---
+
+<details>
+<summary><b>⚙️ Project B</b></summary>
+
+<br>
+
+### Project Overview
+
+Short description of the project and the problem it solves.
+
+**Technologies:**  
+Azure • Bicep • PowerShell • Python • Microsoft Entra ID • GitHub
+
+### Architecture
+
+Describe the architecture, infrastructure components, integrations, and design decisions here.
+
+### What I Built
+
+- Cloud infrastructure deployment
+- Identity and access configuration
+- Infrastructure automation
+- Backup and disaster recovery
+- Monitoring and operational validation
+- Security controls
+- Documentation
+
+### Project Resources
+
+- 🔗 [GitHub Repository](REPLACE-WITH-PROJECT-REPOSITORY)
+- 📖 [Project Documentation](REPLACE-WITH-DOCUMENTATION-LINK)
+- 🏗️ [Architecture Diagram](REPLACE-WITH-ARCHITECTURE-LINK)
+- 🎬 [Demo](REPLACE-WITH-DEMO-LINK)
+- 🧪 [Workshop / Lab](REPLACE-WITH-WORKSHOP-LINK)
+- 📝 [Technical Notes](REPLACE-WITH-NOTES-LINK)
+
+<br>
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Project C</b></summary>
+
+<br>
+
+### Project Overview
+
+Short description of the project and the problem it solves.
+
+**Technologies:**  
+Amazon Bedrock • Anthropic Claude • RAG • Amazon Lex • S3 • IAM • Python
+
+### Architecture
+
+Describe the architecture, infrastructure components, integrations, and design decisions here.
+
+### What I Built
+
+- Generative AI application
+- Retrieval-Augmented Generation pipeline
+- Knowledge-base integration
+- LLM orchestration
+- IAM and security controls
+- Guardrails
+- Testing and evaluation
+- Documentation
+
+### Project Resources
+
+- 🔗 [GitHub Repository](REPLACE-WITH-PROJECT-REPOSITORY)
+- 📖 [Project Documentation](REPLACE-WITH-DOCUMENTATION-LINK)
+- 🏗️ [Architecture Diagram](REPLACE-WITH-ARCHITECTURE-LINK)
+- 🎬 [Demo](REPLACE-WITH-DEMO-LINK)
+- 🧪 [Workshop / Lab](REPLACE-WITH-WORKSHOP-LINK)
+- 📝 [Technical Notes](REPLACE-WITH-NOTES-LINK)
+
+<br>
+
+</details>
+
+---
 
   
 ---
-# ♟️ Moroccan Chess Champion
+<details>
+
+<summary><b>♟️ Moroccan Chess Champion</b></summary>
+
+<br>
 
 <p>
   <b>Competitive chess has shaped how I approach engineering:</b><br>
@@ -165,6 +294,7 @@ Selected performances against internationally titled players:
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### Yasser Saber vs Juan Bellon Lopez 🇪🇸
@@ -193,7 +323,7 @@ Pirc Defense • **½–½**
 
 <td width="33%" align="center">
 
-###  Yasser Saber vs Hichem Hamdouchi 🇫🇷
+### Yasser Saber vs Hichem Hamdouchi 🇫🇷
 
 **Arab Clubs — 2016**  
 Semi-Slav Defense • **½–½**
@@ -203,8 +333,15 @@ Semi-Slav Defense • **½–½**
 </a>
 
 </td>
-  
+
+</tr>
 </table>
+
+<br>
+
+</details>
+
+---
 
 ---
 
